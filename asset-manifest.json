@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.12463e40.css",
-    "main.js": "/static/js/main.1b33dc72.js",
-    "index.html": "/index.html",
-    "main.12463e40.css.map": "/static/css/main.12463e40.css.map",
-    "main.1b33dc72.js.map": "/static/js/main.1b33dc72.js.map"
+    "main.css": "/madeeha-01/reactportfolio.git/static/css/main.12463e40.css",
+    "main.js": "/madeeha-01/reactportfolio.git/static/js/main.99e48527.js",
+    "index.html": "/madeeha-01/reactportfolio.git/index.html",
+    "main.12463e40.css.map": "/madeeha-01/reactportfolio.git/static/css/main.12463e40.css.map",
+    "main.99e48527.js.map": "/madeeha-01/reactportfolio.git/static/js/main.99e48527.js.map"
   },
   "entrypoints": [
     "static/css/main.12463e40.css",
-    "static/js/main.1b33dc72.js"
+    "static/js/main.99e48527.js"
   ]
 }
